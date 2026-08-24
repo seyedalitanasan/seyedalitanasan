@@ -1,5 +1,8 @@
-<h1 align="center">سلام 👋 من سیدعلی هستم</h1>
-<h3 align="center">توسعه‌دهنده فرانت‌اند از ایران</h3>
+<h1 align="left">سلام 👋 من سیدعلی هستم</h1>
+<h3 align="left">توسعه‌دهنده فرانت‌اند از ایران</h3>
+
+<h1 align="left">Hi👋 I am seyyed ali tanasan</h1>
+<h3>A Front-End developer</h3>
 
 <br/>
 
@@ -9,17 +12,12 @@
 
 ---
 
-## 👨‍💻 درباره من
-
-- 🔭 در حال حاضر روی پروژه‌های فرانت‌اند کار می‌کنم
-- 🌱 در حال یادگیری عمیق‌تر فریم‌ورک‌های جاوااسکریپت
-- 👯 به دنبال همکاری در پروژه‌های متن‌باز هستم
-- 💬 از من در مورد HTML، CSS، جاوااسکریپت و ابزارهای فرانت‌اند بپرسید
-- 📫 راه ارتباطی: [ایمیل شما] یا [لینک اینستاگرام]
+## 👨‍💻 About Me
+Hi there! 👋 I'm Seyed Ali Tanasan, a Front-End Developer passionate about crafting clean, responsive, and user-friendly web interfaces. Currently working on personal projects to sharpen my skills and bring ideas to life.
 
 ---
 
-## 🛠️ مهارت‌های من
+## 🛠️Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
