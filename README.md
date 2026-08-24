@@ -1,8 +1,6 @@
-<h1 align="left">سلام 👋 من سیدعلی هستم</h1>
-<h3 align="left">توسعه‌دهنده فرانت‌اند از ایران</h3>
 
 <h1 align="left">Hi👋 I am seyyed ali tanasan</h1>
-<h3>A Front-End developer</h3>
+<h5>A Front-End developer</h5>
 
 <br/>
 
