@@ -33,25 +33,6 @@
 
 ---
 
-## 📊 آمار گیت‌هاب
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seyedalitanasan&show_icons=true&theme=radical&locale=fa" alt="آمار گیت‌هاب" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyedalitanasan&layout=compact&theme=radical&locale=fa" alt="زبان‌های پرکاربرد" width="48%" />
-</p>
-
----
-
-## 🌐 ارتباط با من
-
-<p align="center">
-  <a href="[لینک اینستاگرام]">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="[لینک لینکدین]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
 
 ---
 
