@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-**seyedalitanasan/seyedalitanasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1 align="center">سلام 👋 من سیدعلی هستم</h1>
 <h3 align="center">توسعه‌دهنده فرانت‌اند از ایران</h3>
 
@@ -19,6 +15,10 @@
 - 🌱 در حال یادگیری عمیق‌تر فریم‌ورک‌های جاوااسکریپت
 - 👯 به دنبال همکاری در پروژه‌های متن‌باز هستم
 - 💬 از من در مورد HTML، CSS، جاوااسکریپت و ابزارهای فرانت‌اند بپرسید
+- 📫 راه ارتباطی: [ایمیل شما] یا [لینک اینستاگرام]
+
+---
+
 ## 🛠️ مهارت‌های من
 
 <p align="center">
@@ -45,12 +45,14 @@
 ## 🌐 ارتباط با من
 
 <p align="center">
-  <a href="[https://instagram.com/s.ali.tnt]">
+  <a href="[لینک اینستاگرام]">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="[لینک لینکدین]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
 ⭐️ از [seyedalitanasan](https://github.com/seyedalitanasan) دیدن کنید
--->
