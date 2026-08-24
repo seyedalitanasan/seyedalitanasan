@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi👋 I am seyyed ali tanasan</h1>
+<h1 align="left">Hi👋 I am seyed ali tanasan</h1>
 <h5>A Front-End developer</h5>
 
 <br/>
