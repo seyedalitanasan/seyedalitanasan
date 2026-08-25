@@ -2,7 +2,6 @@
 <h1 align="left">Hi👋 I am seyed ali tanasan</h1>
 <h5>A Front-End developer</h5>
 
-##
 
 ## 👨‍💻 About Me
 Hi there! 👋 I'm Seyed Ali Tanasan, a Front-End Developer passionate about crafting clean, responsive, and user-friendly web interfaces. Currently working on personal projects to sharpen my skills and bring ideas to life.
@@ -20,8 +19,6 @@ Hi there! 👋 I'm Seyed Ali Tanasan, a Front-End Developer passionate about cra
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
-
-##
 
 
 ##
