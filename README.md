@@ -21,7 +21,7 @@ Hi there! 👋 I'm Seyed Ali Tanasan, a Front-End Developer passionate about cra
 
 ## 🛠️ Connect With Me
 <p align="left">
-  <a href="[https://instagram.com/s.ali.tnt]">
+  <a href="https://instagram.com/s.ali.tnt">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:alitanasan84@gmail.com">
