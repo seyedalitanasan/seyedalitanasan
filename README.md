@@ -2,12 +2,6 @@
 <h1 align="left">Hi👋 I am seyed ali tanasan</h1>
 <h5>A Front-End developer</h5>
 
-<br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seyedalitanasan&label=بازدید%20پروفایل&color=0e75b6&style=flat" alt="seyedalitanasan" />
-</p>
-
 ##
 
 ## 👨‍💻 About Me
@@ -30,6 +24,6 @@ Hi there! 👋 I'm Seyed Ali Tanasan, a Front-End Developer passionate about cra
 ##
 
 
----
+##
 
 ⭐️ از [seyedalitanasan](https://github.com/seyedalitanasan) دیدن کنید
