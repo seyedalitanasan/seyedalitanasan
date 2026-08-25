@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi👋 I am seyed ali tanasan</h1>
-<h5>A Front-End developer</h5>
+<h5><i>A Front-End developer</i></h5>
 
 
 ## 👨‍💻 About Me
