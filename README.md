@@ -18,17 +18,8 @@ Hi there! 👋 I'm Seyed Ali Tanasan, a Front-End Developer passionate about cra
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
-##
-Connect with Me
-<h4>
-<p align="left">
-  <a href="[https://instagram.com/s.ali.tnt]">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="[email protected](mailto:alitanasan84@gmail.com)">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+
+
 
 
 ⭐️ از [seyedalitanasan](https://github.com/seyedalitanasan) دیدن کنید
