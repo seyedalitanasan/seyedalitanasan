@@ -20,6 +20,5 @@ Hi there! 👋 I'm Seyed Ali Tanasan, a Front-End Developer passionate about cra
 </p>
 
 
-##
 
 ⭐️ از [seyedalitanasan](https://github.com/seyedalitanasan) دیدن کنید
