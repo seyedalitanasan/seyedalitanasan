@@ -13,7 +13,7 @@
 ## 👨‍💻 About Me
 Hi there! 👋 I'm Seyed Ali Tanasan, a Front-End Developer passionate about crafting clean, responsive, and user-friendly web interfaces. Currently working on personal projects to sharpen my skills and bring ideas to life.
 
----
+##
 
 ## 🛠️ Skills
 <p align="left">
@@ -27,7 +27,7 @@ Hi there! 👋 I'm Seyed Ali Tanasan, a Front-End Developer passionate about cra
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
----
+##
 
 
 ---
