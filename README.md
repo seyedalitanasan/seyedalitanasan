@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=seyedalitanasan&label=بازدید%20پروفایل&color=0e75b6&style=flat" alt="seyedalitanasan" />
 </p>
 
---
+---
 
 ## 👨‍💻 About Me
 Hi there! 👋 I'm Seyed Ali Tanasan, a Front-End Developer passionate about crafting clean, responsive, and user-friendly web interfaces. Currently working on personal projects to sharpen my skills and bring ideas to life.
