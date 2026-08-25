@@ -19,8 +19,9 @@ Hi there! 👋 I'm Seyed Ali Tanasan, a Front-End Developer passionate about cra
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 ##
-## Connect with Me
-<p align="center">
+Connect with Me
+<h4>
+<p align="left">
   <a href="[https://instagram.com/s.ali.tnt]">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
