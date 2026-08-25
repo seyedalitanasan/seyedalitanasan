@@ -28,6 +28,3 @@ Hi there! 👋 I'm Seyed Ali Tanasan, a Front-End Developer passionate about cra
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-
-
-⭐️ از [seyedalitanasan](https://github.com/seyedalitanasan) دیدن کنید
